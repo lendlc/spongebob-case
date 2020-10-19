@@ -1,0 +1,7 @@
+{
+  "name": "spongebob-case",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
